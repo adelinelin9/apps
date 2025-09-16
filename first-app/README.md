@@ -1,6 +1,20 @@
-# Dductly - Tax Deduction Tracking App
+# dductly - Tax Deduction Tracking App
 
-A modern, user-friendly tax deduction tracking application built with React and Vite. Dductly helps users track their tax-deductible expenses throughout the year and provides fair market value estimates for common deductible items.
+**"Track giving. Save money. Stress less."**
+
+## Mission Statement
+We help people effortlessly track donations and write-offs, turning everyday giving into real tax savings — making tax season simple, secure, and stress-free.
+
+## Overview
+dductly is a modern, user-friendly tax deduction tracking application built with React and Vite. Our platform helps users track their tax-deductible expenses throughout the year and provides fair market value estimates for common deductible items, making tax preparation effortless and maximizing potential savings.
+
+## Why dductly?
+
+✨ **Effortless Tracking** - Simple, intuitive interface that makes expense tracking feel natural
+💰 **Maximize Savings** - Built-in valuation tools help you claim every dollar you deserve
+📱 **Always Available** - Works seamlessly across all devices with automatic data sync
+🎯 **Tax-Ready** - Export directly to formats your tax preparer or software needs
+🔒 **Secure & Private** - Your financial data stays on your device with local storage
 
 ## Features
 
